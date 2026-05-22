@@ -107,3 +107,5 @@ With the integration layer in place, AP Tech Development started shipping purpos
 ---
 
 <sub>_Adolfson & Peterson Construction — 80 years of building together. AP Tech Development — a decade of building the tools that help us do it._</sub>
+
+<!-- Reviewed and curated by Elias (AP First Mate agent) for Kevin Lind, 2026-05-21. -->
