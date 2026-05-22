@@ -30,7 +30,7 @@ We bring the same values to code that AP brings to construction.
 
 The code in this organization powers the systems AP teammates rely on:
 
-- 🏗️ **Project & Financial Management** — purpose-built applications that streamline how project managers, coordinators, and finance partners run construction work from preconstruction through closeout
+- 🏗️ **Project Financial Management** — purpose-built applications that streamline how project managers, coordinators, and finance partners run construction work from preconstruction through closeout
 - 🤖 **AI Agent Platform** — a growing fleet of specialized AI agents that assist with documentation, IT support, financial workflows, and knowledge management — built to amplify our people, not replace them
 - 🔧 **Internal Developer Platform** — shared infrastructure, libraries, and automation that let a small team punch above its weight
 - 📐 **Integrations & Workflow Automation** — the connective tissue between construction-industry systems (estimating, scheduling, document control, ERP) that keep our projects moving
@@ -70,8 +70,8 @@ The platform began with an integration layer connecting AP's core systems of rec
 
 | Year | Milestone |
 |---|---|
-| **~2016** | **Morpheus Technology Group framework** implemented as the integration backbone between **Prolog Converge** (project management) and **Spectrum** (Viewpoint construction ERP) |
-| **2018** | Framework extended to integrate **Unanet CRM** (preconstruction / business development) |
+| **~2016** | **Morpheus Technology Group - Framework** implemented as the integration backbone between **Prolog Converge** (project management) and **Spectrum** (Viewpoint construction ERP) |
+| **2018** | Framework extended to integrate **Unanet CRM** (preconstruction / business development / opportunity forecasting) |
 | **2019** | Framework extended to integrate **Procore** (project management & field operations) |
 
 ### Internal Apps & Platform (the build-out)
