@@ -60,18 +60,39 @@ Decades of construction know-how and tens of thousands of IT support tickets, st
 
 ---
 
-## A brief history
+## Apps Platform Timeline
+
+A brief history of what AP Tech Development has shipped — the integrations, internal apps, and platform milestones that got us where we are today.
+
+### Integrations (the foundation)
+
+The platform began with an integration layer connecting AP's core systems of record.
 
 | Year | Milestone |
 |---|---|
-| **1946** | George Adolfson and Gordon Peterson found AP in the basement of George's home in Richfield, MN |
-| **1953** | AP is incorporated |
-| **1980** | Westward expansion — Aurora, CO office opens |
-| **2007** | Annual revenue tops $500M |
-| **2012** | Annual volume surpasses $1 billion |
-| **2015** | Named ENR Contractor of the Year |
-| **2022** | Recognized as ENR Top 25 Green Contractor |
-| **2026** | **80 years of building together** |
+| **~2016** | **Morpheus Technology Group framework** implemented as the integration backbone between **Prolog Converge** (project management) and **Spectrum** (Viewpoint construction ERP) |
+| **2018** | Framework extended to integrate **Unanet CRM** (preconstruction / business development) |
+| **2019** | Framework extended to integrate **Procore** (project management & field operations) |
+
+### Internal Apps & Platform (the build-out)
+
+With the integration layer in place, AP Tech Development started shipping purpose-built internal apps to support our project managers, coordinators, finance partners, and field teams.
+
+| Date | Milestone |
+|---|---|
+| **11/22/2019** | **Request Access** — onboarding & access provisioning for AP teammates |
+| **3/1/2020** | **SlimQueue** — internal request queue / workflow tool |
+| **9/15/2020** | **Buyout & SRA** — subcontract buyout and subcontractor risk assessment |
+| **1/1/2021** | **PTO Request System** — time-off management for AP team members |
+| **12/1/2021** | **Change Management** — project change order workflow |
+| **5/16/2022** | **Bi-weekly Timecard** — field & office time-entry system |
+| **10/6/2022** | **Subcontractor Ratings** — performance feedback loop for our trade partners |
+| **9/28/2023** | **PFM Pilot** — first release of the Project Financial Management platform |
+| **4/1/2024** | **PFM Go Live** — PFM rolled out across active projects |
+| **3/14/2025** | **PFM 2.0** — second-generation PFM with expanded financial workflows |
+| **9/30/2025** | **Vue.js 3.0 framework upgrade** — platform-wide frontend modernization |
+| **3/30/2026** | **PFM Partner Portal** — self-service interface for trade partners and vendors |
+| **2026 →** | **AI Agent Platform** — a growing fleet of specialized agents to amplify the team |
 
 ---
 
@@ -85,4 +106,4 @@ Decades of construction know-how and tens of thousands of IT support tickets, st
 
 ---
 
-<sub>_Adolfson & Peterson Construction. 1946 to today. Twelve offices. Nine hundred-plus teammates. Eighty years of building together._</sub>
+<sub>_Adolfson & Peterson Construction — 80 years of building together. AP Tech Development — a decade of building the tools that help us do it._</sub>
